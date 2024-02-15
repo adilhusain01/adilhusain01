@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adilhusain01
+- 👋 Hi, I’m Adil Husain
 - 👀 I’m interested in Books Reading, Web Development and playing FPS Games
 - 🌱 I’m currently learning Backend and Server development
 - 💞️ I’m looking to collaborate on related projects
