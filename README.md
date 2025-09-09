@@ -1,6 +1,4 @@
-
-
-# Adil Husain
+## Github Stats
 
 ![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark)
 
