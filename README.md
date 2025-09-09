@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Adil Husain
-- 👀 My Interests are in in Backend/Server Development, playing FPS Games and reading Quality Books.
-- 🌱 I’m currently learning Backend and Server development also with little knowledge in Frontend development for testing.
-- 💞️ I’m looking to collaborate on Tech Advaced products having a MVP
-- 📫 How to reach me -> husainadil202@gmail.com
-- ⚡ A Wish: May the odds be ever in your favour.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/adilhusain01/github-readme-stats)
