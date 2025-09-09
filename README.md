@@ -2,20 +2,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header" />
 </p>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=donut&theme=dark" alt="Top Langs" />
 </p>
-
-<!-- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark) 
--->
-
----
 
 ## 💻 Languages
 
@@ -34,8 +26,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
 </p>
-
----
 
 ## 🛠 Tech Stack
 
@@ -62,16 +52,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" />
 </p>
 
----
-
 ## 🖥️ IDE
 
 <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" />
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
 </p>
-
----
 
 ## 🐧 OS
 
