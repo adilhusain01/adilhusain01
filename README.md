@@ -8,7 +8,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=dark" alt="Info" /> <img src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=donut&theme=dark" alt="Top Langs" />
@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=adilhusain01"/>
 </p>
 
-## 💻 Languages
+##  Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
@@ -33,7 +33,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" />
 </p>
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -58,14 +58,14 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" />
 </p>
 
-## 🖥️ IDE
+## IDE
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" />
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100" />
 </p>
 
-## 🐧 OS
+## OS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
