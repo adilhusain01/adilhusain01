@@ -13,6 +13,8 @@
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=dark" alt="Streak" /> <img src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=donut&theme=dark" alt="Top Langs" />
     </br>
+    <img src="https://github-profile-trophy.vercel.app/?username=adilhusain01&theme=onedark&column=3" alt="Trophies"/>
+    </br>
     <img src="https://komarev.com/ghpvc/?username=adilhusain01" alt="Profile Views"/>
 </p>
 
