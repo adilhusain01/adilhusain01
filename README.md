@@ -68,8 +68,9 @@
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" />
 </p>
 
-## Today's Quote
+## Ahh and some brainrot
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
