@@ -15,6 +15,7 @@
     </br>
     <img src="https://github-profile-trophy.vercel.app/?username=adilhusain01&theme=onedark&column=3" alt="Trophies"/>
     </br>
+    </br>
     <img src="https://komarev.com/ghpvc/?username=adilhusain01" alt="Profile Views"/>
 </p>
 
