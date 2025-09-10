@@ -6,6 +6,8 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=dark" alt="Info" /> <img src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=donut&theme=dark" alt="Top Langs" />
+    </br>
+    <img src="https://komarev.com/ghpvc/?username=adilhusain01"/>
 </p>
 
 ## 💻 Languages
