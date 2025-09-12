@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5600&center=true&width=435&lines=welcome+back+to+adilverse" alt="Welcome Font" />
 </div>
 
-
-
-
 ## GitHub Stats
 
 <div align="center">
@@ -17,7 +14,15 @@
     </br>
     </br>
     <img src="https://komarev.com/ghpvc/?username=adilhusain01" alt="Profile Views"/>
-</p>
+</div>
+
+## Socials
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adilhusain__?igsh=Z2h3enYzem54aThw) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-husain/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xAdilHusain) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adil_husain)
+
+</div>
 
 ##  Languages
 
