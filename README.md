@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5600,100:FF8C42&height=200&section=header&text=welcome%20to%20AdilVerse&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=welcome%20to%20AdilVerse&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Header"/>
+
   
   <br/>
 
@@ -28,21 +29,12 @@ const adil = {
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=tokyonight&border_radius=10&background=0D1117&border=FF5600&ring=FF5600&fire=FF8C42&currStreakLabel=FF5600" alt="GitHub Streak" />
-</div>
 
-</br>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=FF5600&icon_color=FF8C42&text_color=fff&border_color=FF5600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=FF5600&text_color=fff&border_color=FF5600"/>
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=FF5600&icon_color=FF8C42&text_color=fff&border_color=FF5600"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=FF5600&text_color=fff&border_color=FF5600"/>
 
-</br>
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilhusain01&bg_color=0D1117&color=FF5600&line=FF8C42&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
 
-<br/>
-<div align="center">
+  </br>
   <img src="https://github-profile-trophy.vercel.app/?username=adilhusain01&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
@@ -105,12 +97,12 @@ graph LR
 
 ## OS
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=arch,apple&theme=dark" alt="OS"/>
+
   </br>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" alt="OS"/>
-    <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="OS"/>
-</p>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" alt="OS"/><img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="OS"/>
+</div>
 
 ## Ahh and some brainrot
 
@@ -121,12 +113,14 @@ graph LR
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5600,100:FF8C42&height=100&section=footer" alt="Footer"/>
   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" alt="Footer"/>
+
   </br>
   **Star repositories if you find them interesting!**
   </br>
+  </br>
 
-  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=FF5600" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=0D1117" alt="Profile Views"/>
+
 </div>
