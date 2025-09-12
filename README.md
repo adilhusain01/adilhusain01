@@ -1,66 +1,99 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5600,100:FF8C42&height=200&section=header&text=welcome%20to%20AdilVerse&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Header"/>
+  
+  <br/>
+
+
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header" />
   </br>
   </br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5600&center=true&width=435&lines=welcome+back+to+adilverse" alt="Welcome Font" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF5600&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Blockchain+Enthusiast+%E2%9B%93;Always+Learning+Newxw+Things+%F0%9F%92%A1" alt="Typing Animation" />
 </div>
+
+## About Me
+
+```javascript
+const adil = {
+    location: "Building in the Cloud ☁️",
+    currentFocus: ["Backend Development", "Blockchain Development"],
+    currentlyLearning: "Advanced System Architecture",
+    funFact: "in the end console.log is the only option! 😉"
+    coffee: "∞ cups/day"
+};
+```
+</br>
 
 ## GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=dark" alt="Streak" /> <img src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=dark" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=donut&theme=dark" alt="Top Langs" />
-    </br>
-    <img src="https://github-profile-trophy.vercel.app/?username=adilhusain01&theme=onedark&column=3" alt="Trophies"/>
-    </br>
-    </br>
-    <img src="https://komarev.com/ghpvc/?username=adilhusain01" alt="Profile Views"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=tokyonight&border_radius=10&background=0D1117&border=FF5600&ring=FF5600&fire=FF8C42&currStreakLabel=FF5600" alt="GitHub Streak" />
+</div>
+
+</br>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=FF5600&icon_color=FF8C42&text_color=fff&border_color=FF5600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=FF5600&text_color=fff&border_color=FF5600"/>
+</div>
+
+</br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilhusain01&bg_color=0D1117&color=FF5600&line=FF8C42&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adilhusain01&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+</br>
+
+## Current Projects & Goals
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎯 2025 Goals] --> B[Master Web3 Development]
+    A --> C[Contribute to Open Source]
+    A --> E[Learn System Design]
+    
+    B --> F[Smart Contracts]
+    B --> G[DeFi Protocols]
+    
+    C --> J[SDKs]
+    C --> K[Developer Tools]
+```
+
 </div>
 
 ## Socials
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adilhusain__?igsh=Z2h3enYzem54aThw) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-husain/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xAdilHusain) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adil_husain)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adilhusain__?igsh=Z2h3enYzem54aThw) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adil-husain/) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/0xAdilHusain) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adil_husain) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husainadil202@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adilhusain.netlify.app)
 
 </div>
 
 ##  Languages
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Language"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Language"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="Language" />
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Language"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="Language"/>
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Language"/>
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Language"/>
-  </br>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Language"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Language"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,swift,solidity,bash,html,css&theme=dark" alt="Programming Languages"/>
 </div>
 
 ##  Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Tech Tool"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Tech Tool"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" alt="Frontend"/>
+  
+  </br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,graphql,redis&theme=dark" alt="Backend"/>
+  
+  </br>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="Databases"/>
   </br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Tech Tool"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="Tech Tool"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Tech Tool"/>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100" alt="Tech Tool"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman&theme=dark" alt="Tools"/>
 </div>
 
 ## IDE
@@ -73,9 +106,7 @@
 ## OS
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="OS"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="OS"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="OS"/>
+  <img src="https://skillicons.dev/icons?i=arch,apple&theme=dark" alt="OS"/>
   </br>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100" alt="OS"/>
     <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100" alt="OS"/>
@@ -83,7 +114,19 @@
 
 ## Ahh and some brainrot
 
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
+
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote"/>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5600,100:FF8C42&height=100&section=footer" alt="Footer"/>
+  
+  </br>
+  **Star repositories if you find them interesting!**
+  </br>
+
+  <img src="https://komarev.com/ghpvc/?username=adilhusain01&style=for-the-badge&color=FF5600" alt="Profile Views"/>
 </div>
