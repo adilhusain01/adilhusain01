@@ -73,7 +73,7 @@ graph LR
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c,swift,solidity,bash,html,css&theme=dark" alt="Programming Languages"/>
 </div>
 
-##  Tech Stack
+##  Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" alt="Frontend"/>
@@ -85,7 +85,7 @@ graph LR
   <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb&theme=dark" alt="Databases"/>
   </br>
 
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman&theme=dark" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,bash&theme=dark" alt="Tools"/>
 </div>
 
 ## IDE
