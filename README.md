@@ -30,7 +30,7 @@ const adil = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adilhusain01&theme=tokyonight&border_radius=10&background=0D1117&border=FF5600&ring=FF5600&fire=FF8C42&currStreakLabel=FF5600" alt="GitHub Streak" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=FF5600&icon_color=FF8C42&text_color=fff&border_color=FF5600"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=FF5600&text_color=fff&border_color=FF5600"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adilhusain01&layout=compact&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=FF5600&text_color=fff&border_color=FF5600"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adilhusain01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=FF5600&icon_color=FF8C42&text_color=fff&border_color=FF5600"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adilhusain01&bg_color=0D1117&color=FF5600&line=FF8C42&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 
